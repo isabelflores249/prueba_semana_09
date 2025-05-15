@@ -72,6 +72,4 @@ personas %>%
 #merge:proceso de integrar cambios de una rama a otra , 
 #pull: actualizar su repositorio local con ls cambios mas recientes (combinacion de fetch y merge), 
 #commit: registro de los cambios hechos en el repositorio, push: enviar sus commits locales al repositorio remoto,
-
-
 #checkout:cambiar de una rama a otra para restaurar archibos del historial a tu directorio de trabajo
